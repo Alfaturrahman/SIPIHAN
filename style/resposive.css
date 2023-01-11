@@ -1,0 +1,16 @@
+@media screen and (max-width: 700px) {
+    .ir {
+      width: auto;
+      height:  75%;
+      position: relative;
+    }
+    .e a {float: left;}
+    e.r {margin-left: 0;}
+  }
+  
+  @media screen and (max-width: 400px) {
+    .irs {
+        height: 10%;
+        width: auto;
+    }
+  }
